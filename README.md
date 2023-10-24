@@ -8,6 +8,7 @@ Bioinformatics Major Biostatistics Minor | Loyola University Chicago 23’ Gradu
 ## Data Science 
  ## [SQL](https://github.com/erinmaley/SQL-Skillset-Demonstration)
  - [SELECT, COUNT, DISTINCT, LIMIT](https://github.com/erinmaley/SQL-Skillset-Demonstration/blob/main/Basics_Select_Count_Distinct_Limit.sql)
+ - [INSERT,UPDATE,DELETE](https://github.com/erinmaley/SQL-Skillset-Demonstration/blob/main/INSERT_UPDATE_DELETE.sql)
 
 </td><td valign="top" width="34%">
 
