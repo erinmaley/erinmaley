@@ -1,13 +1,34 @@
-👩‍💻 Erin Maley | Loyola '23 | Bioinformatics 
+Bioinformatics Major Biostatistics Minor | Loyola University Chicago 23’ Graduate |</a>
+ [twitter](https://twitter.com/erin_does_data) @erin_does_data |
+  [linkedin](https://www.linkedin.com/in/erin-maley-67aa73254/) | erinmaley617@gmail.com
 
-💻 Languages: SAS, SQL, Python, R, Java, C#
-🌐 OS: Mac & Windows
-🛠️ Tools: Sublime, Anaconda, and more
 
-🧬 Research: Fetal health, GI toxicity, machine learning for proteins.
+<table><tr><td valign="top" width="33%">
+  
+## Data Science 
+ ## [SQL](https://github.com/erinmaley/SQL-Skillset-Demonstration)
+ - [SELECT, COUNT, DISTINCT, LIMIT](https://github.com/erinmaley/SQL-Skillset-Demonstration/blob/main/Basics_Select_Count_Distinct_Limit.sql)
 
-💬 Let's Connect: GitHub is home. Questions? Geek out with me!
-<!---
-erinmaley/erinmaley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</td><td valign="top" width="34%">
+
+## Bioinformatics Projects
+## [Protein Folding Classifer](https://github.com/erinmaley/Peptide_Folding_Classifier)
+- [accuracy](https://github.com/erinmaley/Peptide_Folding_Classifier/blob/main/scripts/accuracy.py)
+- [backwards selection](https://github.com/erinmaley/Peptide_Folding_Classifier/blob/main/scripts/backwardselection.py)
+- [data organization](https://github.com/erinmaley/Peptide_Folding_Classifier/blob/main/scripts/data.py)
+- [decision trees(DT)](https://github.com/erinmaley/Peptide_Folding_Classifier/blob/main/scripts/decisiontree.py)
+- [k-nearest neighbors(KNN)](https://github.com/erinmaley/Peptide_Folding_Classifier/blob/main/scripts/knn.py)
+- [random forests(RF)](https://github.com/erinmaley/Peptide_Folding_Classifier/blob/main/scripts/randomforest.py)
+- [support vector machines(SVM)](https://github.com/erinmaley/Peptide_Folding_Classifier/blob/main/scripts/svm.py)
+- [visualization: CMS](https://github.com/erinmaley/Peptide_Folding_Classifier/tree/main/results/cms)
+- [visualization: ROC](https://github.com/erinmaley/Peptide_Folding_Classifier/tree/main/results/cms)
+
+## [Genome Assembly of human herpesvirus5 Pipeline](https://github.com/erinmaley/COMP-383-Pipeline-Project)
+- [bowtie2, fastq-dump, SPAdes, Biopython](https://github.com/erinmaley/COMP-383-Pipeline-Project/blob/main/CompBioPipelineProject.log)
+
+</td><td valign="top" width="33%">
+
+## Data Visualization
+- [Tableau Public](https://public.tableau.com/app/profile/erin.maley/vizzes)
+- [visualization: CMS](https://github.com/erinmaley/Peptide_Folding_Classifier/tree/main/results/cms)
+- [visualization: ROC](https://github.com/erinmaley/Peptide_Folding_Classifier/tree/main/results/cms)
