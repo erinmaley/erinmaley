@@ -14,7 +14,7 @@ Bioinformatics Major Biostatistics Minor | Loyola University Chicago 23’ Gradu
 </td><td valign="top" width="34%">
 
 ## Bioinformatics Projects
-## [Protein Folding Classifer](https://github.com/erinmaley/Peptide_Folding_Classifier)
+## [Protein Folding Classifier](https://github.com/erinmaley/Peptide_Folding_Classifier)
 - [accuracy](https://github.com/erinmaley/Peptide_Folding_Classifier/blob/main/scripts/accuracy.py)
 - [backwards selection](https://github.com/erinmaley/Peptide_Folding_Classifier/blob/main/scripts/backwardselection.py)
 - [data organization](https://github.com/erinmaley/Peptide_Folding_Classifier/blob/main/scripts/data.py)
