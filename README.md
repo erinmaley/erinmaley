@@ -11,6 +11,9 @@ Bioinformatics Major Biostatistics Minor | Loyola University Chicago 23’ Gradu
  - [INSERT,UPDATE,DELETE](https://github.com/erinmaley/SQL-Skillset-Demonstration/blob/main/INSERT_UPDATE_DELETE.sql)
  - [CREATE, ALTER, TRUNCATE, DROP](https://github.com/erinmaley/SQL-Skillset-Demonstration/blob/main/CREATE_ALTER_TRUNCATE_DROP.sql)
 
+ ## [SAS]()
+ -[Improving Fetal Health Assessment: Analysis of Efficient Indicators using Cardiocogram Data]()
+
 </td><td valign="top" width="34%">
 
 ## Bioinformatics Projects
