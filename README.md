@@ -12,9 +12,10 @@ Bioinformatics Major Biostatistics Minor | Loyola University Chicago 23’ Gradu
  - [CREATE, ALTER, TRUNCATE, DROP](https://github.com/erinmaley/SQL-Skillset-Demonstration/blob/main/CREATE_ALTER_TRUNCATE_DROP.sql)
 
  ## [SAS](https://github.com/erinmaley/SAS/tree/main)
- - [Improving Fetal Health Assessment: Analysis of Efficient Indicators using Cardiocogram Data](https://github.com/erinmaley/SAS/blob/main/Analyzing%20Fetal%20Health%20Assessment)
- - [PROC Sort, Freq, Gchart, Ttest](https://github.com/erinmaley/SAS/blob/main/ProcSort_ProcFreq_ProcGchart_Ttest)
  - [ANOVA](https://github.com/erinmaley/SAS/blob/main/ANOVA)
+ - [PROC Sort, Freq, Gchart, Ttest](https://github.com/erinmaley/SAS/blob/main/ProcSort_ProcFreq_ProcGchart_Ttest)
+ - [Improving Fetal Health Assessment: Analysis of Efficient Indicators using Cardiocogram Data](https://github.com/erinmaley/SAS/blob/main/Analyzing%20Fetal%20Health%20Assessment)
+
 
 </td><td valign="top" width="34%">
 
@@ -36,6 +37,7 @@ Bioinformatics Major Biostatistics Minor | Loyola University Chicago 23’ Gradu
 </td><td valign="top" width="33%">
 
 ## Data Visualization
+- [SAS Chart Visualization](https://github.com/erinmaley/SAS/blob/main/ProcSort_ProcFreq_ProcGchart_Ttest)
 - [Tableau Public](https://public.tableau.com/app/profile/erin.maley/vizzes)
 - [visualization: CMS](https://github.com/erinmaley/Peptide_Folding_Classifier/tree/main/results/cms)
 - [visualization: ROC](https://github.com/erinmaley/Peptide_Folding_Classifier/tree/main/results/cms)
